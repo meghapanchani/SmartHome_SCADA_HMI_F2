@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brook\\Source\\Repos\\SmartHome_SCADA_HMI_F2\\SmartHomeSCADA\\SmartHomeSCADA.csproj",
+      "projectUniqueName": "C:\\Users\\brook\\source\\repos\\meghapanchani\\SmartHome_SCADA_HMI_F2\\SmartHomeSCADA\\SmartHomeSCADA.csproj",
       "projectName": "SmartHomeSCADA",
-      "projectPath": "C:\\Users\\brook\\Source\\Repos\\SmartHome_SCADA_HMI_F2\\SmartHomeSCADA\\SmartHomeSCADA.csproj",
+      "projectPath": "C:\\Users\\brook\\source\\repos\\meghapanchani\\SmartHome_SCADA_HMI_F2\\SmartHomeSCADA\\SmartHomeSCADA.csproj",
       "packagesPath": "C:\\Users\\brook\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brook\\Source\\Repos\\SmartHome_SCADA_HMI_F2\\SmartHomeSCADA\\obj\\",
+      "outputPath": "C:\\Users\\brook\\source\\repos\\meghapanchani\\SmartHome_SCADA_HMI_F2\\SmartHomeSCADA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
