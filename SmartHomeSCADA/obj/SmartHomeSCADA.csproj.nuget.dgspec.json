@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\megha\\Desktop\\Project3\\SmartHomeSCADA\\SmartHomeSCADA.csproj": {}
+    "C:\\Users\\brook\\Source\\Repos\\SmartHome_SCADA_HMI_F2\\SmartHomeSCADA\\SmartHomeSCADA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\megha\\Desktop\\Project3\\SmartHomeSCADA\\SmartHomeSCADA.csproj": {
+    "C:\\Users\\brook\\Source\\Repos\\SmartHome_SCADA_HMI_F2\\SmartHomeSCADA\\SmartHomeSCADA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\megha\\Desktop\\Project3\\SmartHomeSCADA\\SmartHomeSCADA.csproj",
+        "projectUniqueName": "C:\\Users\\brook\\Source\\Repos\\SmartHome_SCADA_HMI_F2\\SmartHomeSCADA\\SmartHomeSCADA.csproj",
         "projectName": "SmartHomeSCADA",
-        "projectPath": "C:\\Users\\megha\\Desktop\\Project3\\SmartHomeSCADA\\SmartHomeSCADA.csproj",
-        "packagesPath": "C:\\Users\\megha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\megha\\Desktop\\Project3\\SmartHomeSCADA\\obj\\",
+        "projectPath": "C:\\Users\\brook\\Source\\Repos\\SmartHome_SCADA_HMI_F2\\SmartHomeSCADA\\SmartHomeSCADA.csproj",
+        "packagesPath": "C:\\Users\\brook\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brook\\Source\\Repos\\SmartHome_SCADA_HMI_F2\\SmartHomeSCADA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\megha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brook\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
