@@ -1,0 +1,10 @@
+[2025-11-17 21:21:45] Door unlocked by command.
+[2025-11-17 21:21:48] Door toggled to LOCKED.
+[2025-11-17 21:22:02] Door toggled to UNLOCKED.
+[2025-11-17 21:22:17] Forced entry alert cleared. Door set to LOCKED.
+[2025-11-17 21:22:37] Forced entry alert cleared. Door set to LOCKED.
+[2025-11-17 21:22:40] Forced entry alert cleared. Door set to LOCKED.
+[2025-11-18 14:08:07] Door unlocked by command.
+[2025-11-18 14:08:10] Door toggled to LOCKED.
+[2025-11-18 14:08:50] FORCED ENTRY detected! Door is in ALERT state.
+[2025-11-18 14:09:59] Forced entry alert cleared. Door set to LOCKED.

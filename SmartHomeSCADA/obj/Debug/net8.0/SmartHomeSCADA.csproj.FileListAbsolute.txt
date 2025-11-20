@@ -1,0 +1,15 @@
+C:\Users\megha\Desktop\Project3\SmartHomeSCADA\bin\Debug\net8.0\SmartHomeSCADA.exe
+C:\Users\megha\Desktop\Project3\SmartHomeSCADA\bin\Debug\net8.0\SmartHomeSCADA.deps.json
+C:\Users\megha\Desktop\Project3\SmartHomeSCADA\bin\Debug\net8.0\SmartHomeSCADA.runtimeconfig.json
+C:\Users\megha\Desktop\Project3\SmartHomeSCADA\bin\Debug\net8.0\SmartHomeSCADA.dll
+C:\Users\megha\Desktop\Project3\SmartHomeSCADA\bin\Debug\net8.0\SmartHomeSCADA.pdb
+C:\Users\megha\Desktop\Project3\SmartHomeSCADA\obj\Debug\net8.0\SmartHomeSCADA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\megha\Desktop\Project3\SmartHomeSCADA\obj\Debug\net8.0\SmartHomeSCADA.AssemblyInfoInputs.cache
+C:\Users\megha\Desktop\Project3\SmartHomeSCADA\obj\Debug\net8.0\SmartHomeSCADA.AssemblyInfo.cs
+C:\Users\megha\Desktop\Project3\SmartHomeSCADA\obj\Debug\net8.0\SmartHomeSCADA.csproj.CoreCompileInputs.cache
+C:\Users\megha\Desktop\Project3\SmartHomeSCADA\obj\Debug\net8.0\SmartHomeSCADA.sourcelink.json
+C:\Users\megha\Desktop\Project3\SmartHomeSCADA\obj\Debug\net8.0\SmartHomeSCADA.dll
+C:\Users\megha\Desktop\Project3\SmartHomeSCADA\obj\Debug\net8.0\refint\SmartHomeSCADA.dll
+C:\Users\megha\Desktop\Project3\SmartHomeSCADA\obj\Debug\net8.0\SmartHomeSCADA.pdb
+C:\Users\megha\Desktop\Project3\SmartHomeSCADA\obj\Debug\net8.0\SmartHomeSCADA.genruntimeconfig.cache
+C:\Users\megha\Desktop\Project3\SmartHomeSCADA\obj\Debug\net8.0\ref\SmartHomeSCADA.dll

@@ -1,0 +1,25 @@
+[2025-11-16 22:41:29] Ring detected. Starting 10-second window.
+[2025-11-16 22:41:34] Doorbell ACK: ring stopped, status NORMAL.
+[2025-11-16 22:42:12] Ring detected. Starting 10-second window.
+[2025-11-16 22:42:19] Doorbell MUTE: sound off, visual alert MUTED.
+[2025-11-16 22:42:23] Mute finished. Reset to NORMAL.
+[2025-11-16 22:42:51] Ring detected. Starting 10-second window.
+[2025-11-16 22:43:01] No ACK/MUTE within 10s → MISSED.
+[2025-11-17 21:05:53] Ring detected. Starting 10-second window.
+[2025-11-17 21:06:03] No ACK/MUTE within 10s → MISSED.
+[2025-11-17 21:20:47] Ring detected. Starting 10-second window.
+[2025-11-17 21:20:51] Doorbell ACK: ring stopped, status NORMAL.
+[2025-11-17 21:20:56] Ring detected. Starting 10-second window.
+[2025-11-17 21:20:59] Doorbell MUTE: sound off, visual alert MUTED.
+[2025-11-17 21:21:03] Mute finished. Reset to NORMAL.
+[2025-11-17 21:21:17] Ring detected. Starting 10-second window.
+[2025-11-17 21:21:27] No ACK/MUTE within 10s → MISSED.
+[2025-11-17 21:23:37] Ring detected. Starting 10-second window.
+[2025-11-17 21:23:47] No ACK/MUTE within 10s → MISSED.
+[2025-11-18 14:04:46] Ring detected. Starting 10-second window.
+[2025-11-18 14:04:56] No ACK/MUTE within 10s → MISSED.
+[2025-11-18 14:04:59] Ring detected. Starting 10-second window.
+[2025-11-18 14:05:01] Doorbell ACK: ring stopped, status NORMAL.
+[2025-11-18 14:07:14] Ring detected. Starting 10-second window.
+[2025-11-18 14:07:14] Doorbell MUTE: sound off, visual alert MUTED.
+[2025-11-18 14:07:17] Mute finished. Reset to NORMAL.
