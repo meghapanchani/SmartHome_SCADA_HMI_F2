@@ -5,7 +5,11 @@ VisualStudioVersion = 17.14.36616.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHomeSCADA", "SmartHomeSCADA.csproj", "{3A50EBD9-4012-4E2C-BDEC-8E2B9CAF0F71}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHomeSCADA.Tests", "..\SmartHomeSCADA.Tests\SmartHomeSCADA.Tests.csproj", "{8726ECAB-65CF-4E85-91D3-68A2A84DB91E}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashboardGUI", "..\DashboardGUI\DashboardGUI.csproj", "{5F069C36-EFDD-4D76-88B1-AB9B19E9CAA6}"
+>>>>>>> 95211aeec45c8d90c2641630afe591bd0b13abad
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +21,17 @@ Global
 		{3A50EBD9-4012-4E2C-BDEC-8E2B9CAF0F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A50EBD9-4012-4E2C-BDEC-8E2B9CAF0F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A50EBD9-4012-4E2C-BDEC-8E2B9CAF0F71}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{8726ECAB-65CF-4E85-91D3-68A2A84DB91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8726ECAB-65CF-4E85-91D3-68A2A84DB91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8726ECAB-65CF-4E85-91D3-68A2A84DB91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8726ECAB-65CF-4E85-91D3-68A2A84DB91E}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{5F069C36-EFDD-4D76-88B1-AB9B19E9CAA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F069C36-EFDD-4D76-88B1-AB9B19E9CAA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F069C36-EFDD-4D76-88B1-AB9B19E9CAA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F069C36-EFDD-4D76-88B1-AB9B19E9CAA6}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 95211aeec45c8d90c2641630afe591bd0b13abad
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
