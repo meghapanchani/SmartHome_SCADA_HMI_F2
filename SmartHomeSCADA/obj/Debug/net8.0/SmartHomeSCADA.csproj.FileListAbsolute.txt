@@ -1,0 +1,15 @@
+C:\Users\Nsani3872\Source\Repos\SmartHome_SCADA_HMI_F2\SmartHomeSCADA\bin\Debug\net8.0\SmartHomeSCADA.exe
+C:\Users\Nsani3872\Source\Repos\SmartHome_SCADA_HMI_F2\SmartHomeSCADA\bin\Debug\net8.0\SmartHomeSCADA.deps.json
+C:\Users\Nsani3872\Source\Repos\SmartHome_SCADA_HMI_F2\SmartHomeSCADA\bin\Debug\net8.0\SmartHomeSCADA.runtimeconfig.json
+C:\Users\Nsani3872\Source\Repos\SmartHome_SCADA_HMI_F2\SmartHomeSCADA\bin\Debug\net8.0\SmartHomeSCADA.dll
+C:\Users\Nsani3872\Source\Repos\SmartHome_SCADA_HMI_F2\SmartHomeSCADA\bin\Debug\net8.0\SmartHomeSCADA.pdb
+C:\Users\Nsani3872\Source\Repos\SmartHome_SCADA_HMI_F2\SmartHomeSCADA\obj\Debug\net8.0\SmartHomeSCADA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nsani3872\Source\Repos\SmartHome_SCADA_HMI_F2\SmartHomeSCADA\obj\Debug\net8.0\SmartHomeSCADA.AssemblyInfoInputs.cache
+C:\Users\Nsani3872\Source\Repos\SmartHome_SCADA_HMI_F2\SmartHomeSCADA\obj\Debug\net8.0\SmartHomeSCADA.AssemblyInfo.cs
+C:\Users\Nsani3872\Source\Repos\SmartHome_SCADA_HMI_F2\SmartHomeSCADA\obj\Debug\net8.0\SmartHomeSCADA.csproj.CoreCompileInputs.cache
+C:\Users\Nsani3872\Source\Repos\SmartHome_SCADA_HMI_F2\SmartHomeSCADA\obj\Debug\net8.0\SmartHomeSCADA.sourcelink.json
+C:\Users\Nsani3872\Source\Repos\SmartHome_SCADA_HMI_F2\SmartHomeSCADA\obj\Debug\net8.0\SmartHomeSCADA.dll
+C:\Users\Nsani3872\Source\Repos\SmartHome_SCADA_HMI_F2\SmartHomeSCADA\obj\Debug\net8.0\refint\SmartHomeSCADA.dll
+C:\Users\Nsani3872\Source\Repos\SmartHome_SCADA_HMI_F2\SmartHomeSCADA\obj\Debug\net8.0\SmartHomeSCADA.pdb
+C:\Users\Nsani3872\Source\Repos\SmartHome_SCADA_HMI_F2\SmartHomeSCADA\obj\Debug\net8.0\SmartHomeSCADA.genruntimeconfig.cache
+C:\Users\Nsani3872\Source\Repos\SmartHome_SCADA_HMI_F2\SmartHomeSCADA\obj\Debug\net8.0\ref\SmartHomeSCADA.dll
