@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartHomeSCADA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67ea85a29a18f8ca5b9806aaaf71a5e0e6716eee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0be7e283ef6b6e65ba48258d9263a97cd7ab9ff5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartHomeSCADA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartHomeSCADA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

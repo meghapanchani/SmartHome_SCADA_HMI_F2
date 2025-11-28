@@ -1,0 +1,9 @@
+C:\Users\brook\source\repos\meghapanchani\SmartHome_SCADA_HMI_F2\DashboardGUI\bin\Debug\DashboardGUI.exe.config
+C:\Users\brook\source\repos\meghapanchani\SmartHome_SCADA_HMI_F2\DashboardGUI\bin\Debug\DashboardGUI.exe
+C:\Users\brook\source\repos\meghapanchani\SmartHome_SCADA_HMI_F2\DashboardGUI\bin\Debug\DashboardGUI.pdb
+C:\Users\brook\source\repos\meghapanchani\SmartHome_SCADA_HMI_F2\DashboardGUI\obj\Debug\DashboardGUI.csproj.AssemblyReference.cache
+C:\Users\brook\source\repos\meghapanchani\SmartHome_SCADA_HMI_F2\DashboardGUI\obj\Debug\DashboardGUI.Properties.Resources.resources
+C:\Users\brook\source\repos\meghapanchani\SmartHome_SCADA_HMI_F2\DashboardGUI\obj\Debug\DashboardGUI.csproj.GenerateResource.cache
+C:\Users\brook\source\repos\meghapanchani\SmartHome_SCADA_HMI_F2\DashboardGUI\obj\Debug\DashboardGUI.csproj.CoreCompileInputs.cache
+C:\Users\brook\source\repos\meghapanchani\SmartHome_SCADA_HMI_F2\DashboardGUI\obj\Debug\DashboardGUI.exe
+C:\Users\brook\source\repos\meghapanchani\SmartHome_SCADA_HMI_F2\DashboardGUI\obj\Debug\DashboardGUI.pdb
