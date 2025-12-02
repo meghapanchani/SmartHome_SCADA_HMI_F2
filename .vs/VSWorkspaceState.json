@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SmartHomeSCADA",
+    "\\SmartHomeSCADA\\SecurityModule"
   ],
+  "SelectedNode": "\\SmartHomeSCADA\\SecurityModule\\Doorbell.cs",
   "PreviewInSolutionExplorer": false
 }
